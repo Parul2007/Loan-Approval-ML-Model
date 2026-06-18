@@ -61,18 +61,6 @@ Once filled out, simply click **Predict** to see if the loan is Approved or Reje
 
 ---
 
-## 🚀 How to Deploy on Streamlit Community Cloud (Recommended)
-Since this app is built with Streamlit, the easiest and most reliable way to host it is on **Streamlit Community Cloud** (it is completely free!). 
-
-Follow these steps to deploy your app to the internet:
-
-1. Push your code to your GitHub repository (already done!).
-2. Go to [Streamlit Community Cloud](https://share.streamlit.io/) and sign up / log in with your **GitHub account**.
-3. Once logged in, click the **"New app"** button.
-4. Fill in the following details:
-   - **Repository:** `Parul2007/Loan-Approval-ML-Model`
-   - **Branch:** `main`
-   - **Main file path:** `app.py`
-5. Click **Deploy!**
-
-It will take a minute or two to install the requirements on their servers. Once finished, your app will be live and you will get a public URL that you can share with anyone!
+## 🚀 Live Demo
+You can try out the live web application here: 
+**[Loan Approval Predictor App](https://loan-approval-ml-model-kv3zw7kdjm9grcdxc8jbmb.streamlit.app/)**
